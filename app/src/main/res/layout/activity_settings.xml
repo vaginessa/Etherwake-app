@@ -1,0 +1,33 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="org.schabi.etherwake.SettingsActivity">
+
+
+
+    <TextView android:id="@+id/settingsInterfaceLbl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/settingsInterfaceLbl"/>
+
+    <EditText android:id="@+id/settingsInterfaceEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button android:id="@+id/installButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/installButtonText"/>
+
+    <Button android:id="@+id/saveSettingsButon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/saveButtonText"
+        android:layout_marginTop="16dp"/>
+
+</TableLayout>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Etherwake</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_host_settings">Host Settings</string>
+    <string name="settingsHostLbl">Host</string>
+    <string name="settingsHostEditHint">Hostname</string>
+    <string name="settingsMacLbl">Macaddress</string>
+    <string name="settingsMacEditHint">xx:xx:xx:xx:xx:xx</string>
+    <string name="settingsPwdLbl">Password</string>
+    <string name="settingsPwdEditHint">Leave empty if not necessary.</string>
+    <string name="broadcastCheckBox">Sent to broadcast address.</string>
+    <string name="saveButtonText">save</string>
+    <string name="onSaveWrongToast">You need to enter a fitting value for Hostname and Macaddress .</string>
+    <string name="itemDialogTitle">Choose an Action</string>
+    <string-array name="itemDialogItems">
+        <item>Boot</item>
+        <item>Edit</item>
+        <item>Delete</item>
+        <item>Cancel</item>
+    </string-array>
+    <string name="deleteDialogMessage">Delete Host?</string>
+    <string name="deleteYes">Yes</string>
+    <string name="deleteNo">No</string>
+    <string name="preferenceTitle">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settingsInterfaceLbl">Interface</string>
+    <string name="installButtonText">Install to /system/xbin</string>
+</resources>

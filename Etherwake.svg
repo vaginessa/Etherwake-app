@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Etherwake.svg">
+  <title
+     id="title4142">Etherwake-app icon</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#aeaeae"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.4627451"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="34.954626"
+     inkscape:cy="158.04197"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Etherwake-app icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:date>22.08.15</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Schabesberger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Christian Schabesberger</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2985"
+       sodipodi:cx="121.97592"
+       sodipodi:cy="139.57993"
+       sodipodi:rx="86.620583"
+       sodipodi:ry="88.135811"
+       d="M 208.5965,139.57993 A 86.620583,88.135811 0 0 1 121.97592,227.71574 86.620583,88.135811 0 0 1 35.355339,139.57993 86.620583,88.135811 0 0 1 121.97592,51.444115 86.620583,88.135811 0 0 1 208.5965,139.57993 Z"
+       transform="matrix(1.443075,0,0,1.4182657,-48.020406,726.40076)" />
+    <g
+       id="g3833">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="2.9149091"
+         sodipodi:start="1.768728"
+         transform="matrix(1.443075,0,0,1.4182657,-48.108841,726.37867)"
+         d="M 104.94269,225.99492 A 86.620583,88.135811 0 0 1 37.571344,159.3882"
+         sodipodi:ry="88.135811"
+         sodipodi:rx="86.620583"
+         sodipodi:cy="139.57993"
+         sodipodi:cx="121.97592"
+         id="path2985-7"
+         style="fill:#ac00ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ac00ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2985-0"
+       sodipodi:cx="121.97592"
+       sodipodi:cy="139.57993"
+       sodipodi:rx="86.620583"
+       sodipodi:ry="88.135811"
+       d="M 35.661522,132.17598 A 86.620583,88.135811 0 0 1 72.373983,67.325241 86.620583,88.135811 0 0 1 144.85147,54.573086"
+       transform="matrix(1.443075,0,0,1.4182657,-48.020406,726.40076)"
+       sodipodi:start="3.2256979"
+       sodipodi:end="4.9796483"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ac00ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2985-2"
+       sodipodi:cx="121.97592"
+       sodipodi:cy="139.57993"
+       sodipodi:rx="86.620583"
+       sodipodi:ry="88.135811"
+       d="M 41.610724,106.69491 A 86.620583,88.135811 0 0 1 122.08247,51.444181 86.620583,88.135811 0 0 1 202.42038,106.89617"
+       transform="matrix(1.443075,0,0,1.4182657,-48.020406,726.40076)"
+       sodipodi:start="3.5239596"
+       sodipodi:end="5.9032784"
+       sodipodi:open="true" />
+    <path
+       style="fill:#ac00ac;fill-opacity:1;stroke:none"
+       d="m 89.74295,92.55181 57.23424,66.47354 3.03046,-1.76776 -16.77212,-76.521685 37.14105,43.640965 22.1008,-43.34247 37.01108,45.24022 L 243.99517,81.121058 27.274119,55.989796 46.132175,84.111267 z"
+       id="path3949"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       transform="translate(0,796.36218)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ac00ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2985-1"
+       sodipodi:cx="121.97592"
+       sodipodi:cy="139.57993"
+       sodipodi:rx="86.620583"
+       sodipodi:ry="88.135811"
+       d="M 53.52046,193.58354 A 86.620583,88.135811 0 0 1 35.372918,141.35549"
+       transform="matrix(1.443075,0,0,1.4182657,-48.020406,726.40076)"
+       sodipodi:start="2.48208"
+       sodipodi:end="3.1214455"
+       sodipodi:open="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:52.58588028px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+       x="-5.8104987"
+       y="977.89319"
+       id="text3037"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3039"
+         x="-5.8104987"
+         y="977.89319"
+         style="font-size:189.30917358px;fill:#ffffff;fill-opacity:1">ew</tspan></text>
+  </g>
+</svg>
