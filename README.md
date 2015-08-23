@@ -1,7 +1,7 @@
 Etherwake-app
 =============
 
-Version 1.0
+Version 1.0.1
 
 This android app is a wraper around the ehterwake command. It is used to 
 start computers within the same network as the smartphone. Since this app

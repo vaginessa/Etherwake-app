@@ -9,10 +9,8 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
-import org.apache.commons.io.IOUtils;
 
 import java.io.InputStreamReader;
-import java.io.OutputStream;
 
 /**
  * Created by Christian Schabesberger on 31.07.15.
@@ -56,7 +54,11 @@ public class Etherwake {
         File cmd_file = new File(cmdDir, CMD);
         try {
             FileOutputStream cmd_out = new FileOutputStream(cmd_file);
-            IOUtils.copy(cmd_in, cmd_out);
+            byte[] buffer = new byte[1024];
+            int bytesRead;
+            while((bytesRead = cmd_in.read(buffer)) != -1) {
+                cmd_out.write(buffer, 0, bytesRead);
+            }
             cmd_in.close();
             cmd_out.close();
             Runtime.getRuntime().exec("chmod -R 555 " + cmd_file.getAbsolutePath());
